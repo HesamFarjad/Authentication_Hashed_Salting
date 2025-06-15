@@ -44,5 +44,5 @@ Instead of storing plain text passwords, this version hashes and salts passwords
 
 ## 🧱 Database Schema
 
-<img width="1436" alt="Screenshot 2025-06-15 at 16 43 54" src="https://github.com/user-attachments/assets/40abc7c3-2c51-407a-868c-854f5f0b0a72" />
+<img width="1436" alt="Screenshot 2025-06-15 at 16 43 54" src="https://github.com/user-attachments/assets/9f7bd1db-2061-4e25-8025-69aa77b8d68e" />
 
